@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+    color: black;
+    padding: 50px;
+}
+
+header {
+    display: block;
+    height: 205px;
+}
+
+h1 {
+    padding-bottom: 40px;
+}
+
+.comments {
+    height: 305px;
+}
+
+.name {
+    padding: 10px;
+}
+
+.bord {
+    border: 3px solid black;
+}
+
+.nameinp {
+    border: none;
+}
+
+input {
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+textarea {
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.footer {
+    height: 85px;
+}
+
+footer {
+    display: block;
+    height: 110px;
+    padding-top: 30px;
+}
+
+.hr-circle {
+    margin: 20px 0;
+    padding: 0;
+    height: 0;
+    border: none;
+    border-width: 0 0 5px;
+    border-style: solid;
+    border-image: url(img/hr_dot.png) 0 0 100% repeat;
+    background-position: 50%;
+    box-sizing: border-box;
+}
